@@ -22,6 +22,7 @@ Each draft represents a deep dive into fundamental concepts, building progressiv
 | 01 | Introduction to Quantum Computing | Foundational Ideas | Published | August-31, 2025 | [READ](https://github.com/jynxora/Quantum-Computing-Foundation-Draft-01/blob/main/QuantumComputingQuantumMechanicsFoundations.pdf) |
 | 02 | Classical vs Quantum Computing | Classical vs Quantum Computing | Published | September-04, 2025 | [READ](https://github.com/jynxora/Quantum-Computing-Draft-02/blob/main/ClassicalvsQuantumComputingStructured_Guide.pdf) |
 | 03 | Understanding Qubits | Mathemetical Representation of Qubits | Published | October-06, 2025 | [READ](https://github.com/jynxora/Quantum-Computing-Draft-03-Understanding-Qubit/blob/main/Draft03-UnderstandingQubits.pdf) |
+| 04 | NIST Standards | Standards for Quantum Computing and Algorithms | Published | October-24, 2025 | [READ](https://github.com/jynxora/Quantum-Computing-Draft-04-NIST-Standards/blob/main/Draft04-NISTQuantumStandards.pdf) |
 
 ---
 
