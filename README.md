@@ -1,7 +1,7 @@
 # Quantum-Computing-Research-Drafts
 
 **Compiled by:** Jinay Shah  
-**Last Updated:** October 6, 2025  
+**Last Updated:** October 24, 2025  
 **Status:** Active Learning & Documentation
 
 ---
